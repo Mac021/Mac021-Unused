@@ -2,14 +2,14 @@
 github repository page
 
 
-##Things To Do
+## Things To Do
 Add Some Layout To The Main Page
 Write The Main Scripts(JavaScript)
 ✓Put The Page On
 Add The Presentation Image/Event/Animation
 
-##Objectives
+## Objectives
 Just A Portfolio/Main Page For Other Projects
 
-###Projects In Mind/Ongoing
+### Projects In Mind/Ongoing
 The Devil's House
