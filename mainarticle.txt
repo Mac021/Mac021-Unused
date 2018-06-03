@@ -1,0 +1,6 @@
+<link href="https://fonts.googleapis.com/css?family=Arvo|Marcellus+SC|Oswald|Pridi" rel="stylesheet">
+
+font-family: 'Oswald', sans-serif;
+font-family: 'Arvo', serif;
+font-family: 'Marcellus SC', serif;
+font-family: 'Pridi', serif;
