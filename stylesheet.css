@@ -34,7 +34,7 @@ a:hover{
 	font-size: 61px;
 }
 .main-body{
-	background-color: rgb(255,255,255);
+	background-color: rgb(255,255,255,0.91);
 	background-size: cover;
 	font-family: 'Arvo', serif;
 	padding: 14px;
